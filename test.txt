@@ -1,2 +1,7 @@
 what is up?
 Add more lines.
+
+Creat a new branch using
+git branch thirsty
+git checkout thirsty
+git branch
