@@ -1,3 +1,11 @@
 what is up?
 Add more lines.
+<<<<<<< HEAD
 This is main branch.
+=======
+
+Creat a new branch using
+git branch thirsty
+git checkout thirsty
+git branch
+>>>>>>> thirsty
